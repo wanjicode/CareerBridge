@@ -83,17 +83,22 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold text-center mb-12">Our Team</h2>
             <div className="grid md:grid-cols-3 gap-8">
               <TeamMember
-                name="Sarah Chen"
+                name="Susan Maina"
                 role="Founder & CEO"
                 image="https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg"
               />
               <TeamMember
-                name="Michael Rodriguez"
+                name="Victor"
                 role="Head of Mentorship"
                 image="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg"
               />
               <TeamMember
-                name="Emily Taylor"
+                name="Raynor"
+                role="Community Lead"
+                image="https://images.pexels.com/photos/3757004/pexels-photo-3757004.jpeg"
+              />
+              <TeamMember
+                name="Kelvin"
                 role="Community Lead"
                 image="https://images.pexels.com/photos/3757004/pexels-photo-3757004.jpeg"
               />
